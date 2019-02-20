@@ -16,7 +16,7 @@
         <de><![CDATA[???]]></de>
         <es><![CDATA[Este mod incluye radares de velocidad que te multarán si conduces sobre los límites.]]></es>
         <nl><![CDATA[Deze mod bevat snelheidscontroles die jou een boete geven als je te snel rijd.]]></nl>
-        <pl><![CDATA[Ten mod zawiera radary prędkości, które ukarzą cię, jeśli przekroczysz limit prędkości.]]></pl>
+        <pl><![CDATA[Ten mod zawiera radary, które mogą Cię ukarać za przekroczenie dozwolonej prędkości.]]></pl>
     </description>
     <iconFilename>icon.png</iconFilename>
     <multiplayer supported="true"/>
@@ -37,7 +37,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Conduciste sobre el límite a %s (máx: %s) y debes pagar %s]]></es>
             <nl><![CDATA[Jij reed %s te hard (max: %s) en moet %s betalen]]></nl>
-            <pl><![CDATA[Jechałeś % za szybko (max: %s), musisz zapłacić %s]]></pl>
+            <pl><![CDATA[Jechałeś o %s za szybko (przy ograniczeniu do: %s). Mandat: %s]]></pl>
         </text>
         <text name="action_vandalizeRadar">
             <en><![CDATA[Vandalize radar]]></en>
@@ -69,7 +69,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Límite de velocidad]]></es>
             <nl><![CDATA[Snelheidslimiiet]]></nl>
-            <pl><![CDATA[Limit prędkości]]></pl>
+            <pl><![CDATA[Ograniczenie prędkości]]></pl>
         </text>
         <text name="speedRadar_ui_speedLimitTooltip">
             <en><![CDATA[The maximum speed allowed before enabling the fine system.]]></en>
