@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<placeable>
+    <storeData>
+        <name>
+            <en><![CDATA[Mobile speed radar]]></en>
+            <fr><![CDATA[Radar de vitesse mobile]]></fr>
+            <de><![CDATA[???]]></de>
+        </name>
+        <functions>
+            <function>
+                <en><![CDATA[Setup a location where a mobile speed radar might popup once in a while. Updated every 30mn.]]></en>
+                <fr><![CDATA[Définit un emplacement où un radar de vitesse mobile peut apparaître de temps en temps. Mis à jour toutes les 30mn.]]></fr>
+                <de><![CDATA[???]]></de>
+            </function>
+        </functions>
+        <image>mobileSpeedRadar.dds</image>
+        <price>0</price>
+        <dailyUpkeep>10</dailyUpkeep>
+        <lifetime>1000</lifetime>
+        <rotation>0</rotation>
+        <brand>LIZARD</brand>
+        <species>placeable</species>
+        <category>placeableMisc</category>
+    </storeData>
+    <placeableType>SpeedRadar</placeableType>
+    <filename>speedRadar/mobileSpeedRadar.i3d</filename>
+    <placement testSizeX="1" testSizeZ="1" sizeX="1" sizeZ="1" useRandomYRotation="false" useManualYRotation="true"/>
+</placeable>

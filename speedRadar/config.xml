@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<speedRadar version="1">
+    <fineSystem name="france">
+        <cityPrices maxAmount="3750">
+            <item amount="90" maxDiff="10" />
+            <item amount="135" maxDiff="20" />
+            <item amount="375" maxDiff="30" />
+            <item amount="750" maxDiff="40" />
+            <item amount="1500" maxDiff="50" />
+        </cityPrices>
+        <countryPrices maxAmount="1500">
+            <item amount="68" maxDiff="20" />
+            <item amount="90" maxDiff="30" />
+            <item amount="375" maxDiff="40" />
+            <item amount="750" maxDiff="50" />
+        </countryPrices>
+    </fineSystem>
+    <fineSystem name="germany">
+        <cityPrices maxAmount="680">
+            <item amount="15" maxDiff="10" />
+            <item amount="25" maxDiff="15" />
+            <item amount="35" maxDiff="20" />
+            <item amount="80" maxDiff="25" />
+            <item amount="100" maxDiff="30" />
+            <item amount="160" maxDiff="40" />
+            <item amount="200" maxDiff="50" />
+            <item amount="280" maxDiff="60" />
+            <item amount="480" maxDiff="70" />
+        </cityPrices>
+        <countryPrices maxAmount="600">
+            <item amount="10" maxDiff="10" />
+            <item amount="20" maxDiff="15" />
+            <item amount="30" maxDiff="20" />
+            <item amount="70" maxDiff="25" />
+            <item amount="80" maxDiff="30" />
+            <item amount="120" maxDiff="40" />
+            <item amount="160" maxDiff="50" />
+            <item amount="240" maxDiff="60" />
+            <item amount="440" maxDiff="70" />
+        </countryPrices>
+    </fineSystem>
+</speedRadar>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<placeable>
+    <storeData>
+        <name>
+            <en><![CDATA[Fixed speed radar]]></en>
+            <fr><![CDATA[Radar de vitesse fixe]]></fr>
+            <de><![CDATA[???]]></de>
+        </name>
+        <functions>
+            <function>
+                <en><![CDATA[A fixed speed radar. Can be vandalized.]]></en>
+                <fr><![CDATA[Un radar de vitesse fixe. Peut être vandalisé.]]></fr>
+                <de><![CDATA[???]]></de>
+            </function>
+        </functions>
+        <image>fixedSpeedRadar.dds</image>
+        <price>0</price>
+        <dailyUpkeep>10</dailyUpkeep>
+        <lifetime>1000</lifetime>
+        <rotation>0</rotation>
+        <brand>LIZARD</brand>
+        <species>placeable</species>
+        <category>placeableMisc</category>
+    </storeData>
+    <placeableType>SpeedRadar</placeableType>
+    <filename>speedRadar/fixedSpeedRadar.i3d</filename>
+    <placement testSizeX="1" testSizeZ="1" sizeX="1" sizeZ="1" useRandomYRotation="false" useManualYRotation="true"/>
+    <animatedObjects>
+        <animatedObject index="fixedSpeedRadar">
+            <animation duration="0.01">
+                <part node="1|0">
+                    <keyFrame time="0.0" visibility="true"/>
+                    <keyFrame time="1" visibility="false" />
+                </part>
+                <part node="1|1">
+                    <keyFrame time="0.0" visibility="false"/>
+                    <keyFrame time="1" visibility="true" />
+                </part>
+            </animation>
+            <controls triggerNode="3" posAction="ACTIVATE_HANDTOOL" posText="action_vandalizeRadar" negText="action_repairRadar" />
+            <sounds>
+                <posEnd file="$data/sounds/ui/uiConfigSpray.wav" linkNode="1|1" volume="0.8" radius="25" innerRadius="5" />
+                <negEnd file="$data/sounds/tools/spreader/sprayer_loop.wav" linkNode="1|0" volume="0.8" radius="25" innerRadius="5" />
+            </sounds>
+        </animatedObject>
+    </animatedObjects>
+</placeable>

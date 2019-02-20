@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>bbenoist</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en><![CDATA[Speed Radar Pack]]></en>
+        <fr><![CDATA[Pack Radar de Vitesse]]></fr>
+        <de><![CDATA[???]]></de>
+    </title>
+    <description>
+        <en><![CDATA[This mod includes speed radars which will fine you if your drive off the limits.]]></en>
+        <fr><![CDATA[Ce mod inclus des radars de vitesse qui vous infligeront une amende en cas de dépassement des limites.]]></fr>
+        <de><![CDATA[???]]></de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="register.lua" />
+        <sourceFile filename="newSpeedRadarDialog.lua" />
+        <sourceFile filename="speedRadar/speedRadarMod.lua" />
+        <sourceFile filename="speedRadar/speedRadar.lua" />
+    </extraSourceFiles>
+    <storeItems>
+        <storeItem xmlFilename="fixedSpeedRadar.xml"/>
+        <storeItem xmlFilename="mobileSpeedRadar.xml"/>
+    </storeItems>
+    <l10n>
+        <text name="tooFastMessage">
+            <en><![CDATA[You drove %s too fast (max: %s) and have to pay %s]]></en>
+            <fr><![CDATA[Vous avez conduit %s trop vite (max : %s) et devez payer %s]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="action_vandalizeRadar">
+            <en><![CDATA[Vandalize radar]]></en>
+            <fr><![CDATA[Vandaliser le radar]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="action_repairRadar">
+            <en><![CDATA[Repair radar]]></en>
+            <fr><![CDATA[Réparer le radar]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_newRadar">
+            <en><![CDATA[New radar]]></en>
+            <fr><![CDATA[Nouveau radar]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_speedLimit">
+            <en><![CDATA[Speed limit]]></en>
+            <fr><![CDATA[Limite de vitesse]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_speedLimitTooltip">
+            <en><![CDATA[The maximum speed allowed before enabling the fine system.]]></en>
+            <fr><![CDATA[La vitesse maximum autorisée avant déclenchement du système d'amendes.]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_speedUnit">
+            <en><![CDATA[Speed unit]]></en>
+            <fr><![CDATA[Unité de vitesse]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_speedUnitTooltip">
+            <en><![CDATA[The unit in which the speed limit is expressed.]]></en>
+            <fr><![CDATA[L'unité dans laquelle est exprimé votre limitation de vitesse.]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_fineSystem">
+            <en><![CDATA[Fine system]]></en>
+            <fr><![CDATA[Système de contravention]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="speedRadar_ui_fineSystemTooltip">
+            <en><![CDATA[The fine system to use when the speed limit has been exceeded.]]></en>
+            <fr><![CDATA[Le système de contravention qui sera utilisé lors des dépassements de vitesse.]]></fr>
+            <de><![CDATA[???]]></de>
+        </text>
+        <text name="kmh">
+            <en><![CDATA[km/h]]></en>
+        </text>
+        <text name="mph">
+            <en><![CDATA[mph]]></en>
+        </text>
+        <text name="france">
+            <en><![CDATA[France]]></en>
+            <fr><![CDATA[France]]></fr>
+            <de><![CDATA[Frankreich]]></de>
+        </text>
+        <text name="germany">
+            <en><![CDATA[Germany]]></en>
+            <fr><![CDATA[Allemagne]]></fr>
+            <de><![CDATA[Deutschland]]></de>
+        </text>
+    </l10n>
+</modDesc>
