@@ -35,7 +35,7 @@
             <en><![CDATA[You drove %s too fast (max: %s) and have to pay %s]]></en>
             <fr><![CDATA[Vous avez conduit %s trop vite (max : %s) et devez payer %s]]></fr>
             <de><![CDATA[???]]></de>
-            <es><![CDATA[Conduciste sobre el límite a %s (máx: %s) y debes pagar %s]]></es>
+            <es><![CDATA[Has conducido sobre el límite de velocidad a %s (máx: %s) y debes pagar %s]]></es>
             <nl><![CDATA[Jij reed %s te hard (max: %s) en moet %s betalen]]></nl>
             <pl><![CDATA[Jechałeś o %s za szybko (przy ograniczeniu do: %s). Mandat: %s]]></pl>
         </text>
