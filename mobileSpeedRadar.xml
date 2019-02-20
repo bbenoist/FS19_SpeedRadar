@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
         <name>
@@ -6,6 +6,7 @@
             <fr><![CDATA[Radar de vitesse mobile]]></fr>
             <de><![CDATA[???]]></de>
             <es><![CDATA[Radar de velocidad móvil]]></es>
+            <nl><![CDATA[Mobiele snelheidscontrole]]></nl>
         </name>
         <functions>
             <function>
@@ -13,6 +14,7 @@
                 <fr><![CDATA[Définit un emplacement où un radar de vitesse mobile peut apparaître de temps en temps. Mis à jour toutes les 30mn.]]></fr>
                 <de><![CDATA[???]]></de>
                 <es><![CDATA[Preparar una localización donde el radar de velocidad móvil puede saltar de vez en cuando. Actualizado cada 30mn.]]></es>
+                <nl><![CDATA[Stel een locatie in waar een mobiele radar af en toe mag opduiken. Elke 30min geupdate.]]></nl>
             </function>
         </functions>
         <image>mobileSpeedRadar.dds</image>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
         <name>
@@ -6,6 +6,7 @@
             <fr><![CDATA[Radar de vitesse fixe]]></fr>
             <de><![CDATA[???]]></de>
             <es><![CDATA[Radar de velocidad fijo]]></es>
+            <nl><![CDATA[Vaste snelheidscontrole]]></nl>
         </name>
         <functions>
             <function>
@@ -13,6 +14,7 @@
                 <fr><![CDATA[Un radar de vitesse fixe. Peut être vandalisé.]]></fr>
                 <de><![CDATA[???]]></de>
                 <es><![CDATA[Un radar de velocidad fijo. Puede ser vandalizado.]]></es>
+                <nl><![CDATA[Een vaste snelheidscontrole. Kan gevandaliseerd worden.]]></nl>
             </function>
         </functions>
         <image>fixedSpeedRadar.dds</image>
