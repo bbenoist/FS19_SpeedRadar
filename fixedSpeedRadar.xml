@@ -7,6 +7,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Radar de velocidad fijo]]></es>
             <nl><![CDATA[Vaste snelheidscontrole]]></nl>
+            <pl><![CDATA[Naprawiono radar prędkości.]]></pl>
         </name>
         <functions>
             <function>
@@ -15,6 +16,7 @@
                 <de><![CDATA[???]]></de>
                 <es><![CDATA[Un radar de velocidad fijo. Puede ser vandalizado.]]></es>
                 <nl><![CDATA[Een vaste snelheidscontrole. Kan gevandaliseerd worden.]]></nl>
+                <pl><![CDATA[Napraw radar prędkości, może być zniszczony.]]></pl>
             </function>
         </functions>
         <image>fixedSpeedRadar.dds</image>

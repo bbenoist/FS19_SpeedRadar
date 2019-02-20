@@ -7,6 +7,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Radar de velocidad móvil]]></es>
             <nl><![CDATA[Mobiele snelheidscontrole]]></nl>
+            <pl><![CDATA[Mobilny radar prędkości]]></pl>
         </name>
         <functions>
             <function>
@@ -15,6 +16,7 @@
                 <de><![CDATA[???]]></de>
                 <es><![CDATA[Preparar una localización donde el radar de velocidad móvil puede saltar de vez en cuando. Actualizado cada 30mn.]]></es>
                 <nl><![CDATA[Stel een locatie in waar een mobiele radar af en toe mag opduiken. Elke 30min geupdate.]]></nl>
+                <pl><![CDATA[Ustal miejsce, w którym może być pojawiać się co jakiś czas mobilny radar prędkości. Aktualizowanie co 30min.]]></pl>
             </function>
         </functions>
         <image>mobileSpeedRadar.dds</image>

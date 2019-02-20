@@ -8,6 +8,7 @@
         <de><![CDATA[???]]></de>
         <es><![CDATA[Pack de Radares de Velocidad]]></es>
         <nl><![CDATA[Snelheidscontrole pakket]]></nl>
+        <pl><![CDATA[Paczka radarów prędkości]]></pl>
     </title>
     <description>
         <en><![CDATA[This mod includes speed radars which will fine you if your drive off the limits.]]></en>
@@ -15,6 +16,7 @@
         <de><![CDATA[???]]></de>
         <es><![CDATA[Este mod incluye radares de velocidad que te multarán si conduces sobre los límites.]]></es>
         <nl><![CDATA[Deze mod bevat snelheidscontroles die jou een boete geven als je te snel rijd.]]></nl>
+        <pl><![CDATA[Ten mod zawiera radary prędkości, które ukarzą cię, jeśli przekroczysz limit prędkości.]]></pl>
     </description>
     <iconFilename>icon.png</iconFilename>
     <multiplayer supported="true"/>
@@ -35,6 +37,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Conduciste sobre el límite a %s (máx: %s) y debes pagar %s]]></es>
             <nl><![CDATA[Jij reed %s te hard (max: %s) en moet %s betalen]]></nl>
+            <pl><![CDATA[Jechałeś % za szybko (max: %s), musisz zapłacić %s]]></pl>
         </text>
         <text name="action_vandalizeRadar">
             <en><![CDATA[Vandalize radar]]></en>
@@ -42,6 +45,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Vandalizar radar]]></es>
             <nl><![CDATA[Vandaliseer de radar]]></nl>
+            <pl><![CDATA[Zniszcz radar]]></pl>
         </text>
         <text name="action_repairRadar">
             <en><![CDATA[Repair radar]]></en>
@@ -49,6 +53,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Reparar radar]]></es>
             <nl><![CDATA[Repareer de radar]]></nl>
+            <pl><![CDATA[Napraw radar]]></pl>
         </text>
         <text name="speedRadar_ui_newRadar">
             <en><![CDATA[New radar]]></en>
@@ -56,6 +61,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Nuevo radar]]></es>
             <nl><![CDATA[Nieuwe radar]]></nl>
+            <pl><![CDATA[Nowy radar]]></pl>
         </text>
         <text name="speedRadar_ui_speedLimit">
             <en><![CDATA[Speed limit]]></en>
@@ -63,6 +69,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Límite de velocidad]]></es>
             <nl><![CDATA[Snelheidslimiiet]]></nl>
+            <pl><![CDATA[Limit prędkości]]></pl>
         </text>
         <text name="speedRadar_ui_speedLimitTooltip">
             <en><![CDATA[The maximum speed allowed before enabling the fine system.]]></en>
@@ -70,6 +77,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[El máximo de velocidad permitido antes de activar el sistema de multa.]]></es>
             <nl><![CDATA[De maximale snelheid toegestaan voor het activeren van het boete systeem.]]></nl>
+            <pl><![CDATA[Maksymalna dozwolona prędkość przed otrzymaniem mandatu.]]></pl>
         </text>
         <text name="speedRadar_ui_speedUnit">
             <en><![CDATA[Speed unit]]></en>
@@ -77,6 +85,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Unidad de velocidad]]></es>
             <nl><![CDATA[Snelheidseenheid]]></nl>
+            <pl><![CDATA[Jednostka prędkości]]></pl>
         </text>
         <text name="speedRadar_ui_speedUnitTooltip">
             <en><![CDATA[The unit in which the speed limit is expressed.]]></en>
@@ -84,6 +93,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[La unidad en que el límite de velocidad está expresado.]]></es>
             <nl><![CDATA[De eenheid waarin de snelheidslimiet word weergegeven.]]></nl>
+            <pl><![CDATA[Jednostka, w której będzie mierzona prędkość.]]></pl>
         </text>
         <text name="speedRadar_ui_fineSystem">
             <en><![CDATA[Fine system]]></en>
@@ -91,6 +101,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[Sistema de multas]]></es>
             <nl><![CDATA[Boete systeem]]></nl>
+            <pl><![CDATA[Mandat]]></pl>
         </text>
         <text name="speedRadar_ui_fineSystemTooltip">
             <en><![CDATA[The fine system to use when the speed limit has been exceeded.]]></en>
@@ -98,6 +109,7 @@
             <de><![CDATA[???]]></de>
             <es><![CDATA[El sistema de multas a utilizar cuando el límite de velocidad ha sido excedido.]]></es>
             <nl><![CDATA[Het boetesysteem dat wordt gebruikt als de snelheidslimiet is overschreden.]]></nl>
+            <pl><![CDATA[Po przekroczeniu prędkości otrzymasz mandat.]]></pl>
         </text>
         <text name="kmh">
             <en><![CDATA[km/h]]></en>
@@ -111,6 +123,7 @@
             <de><![CDATA[Frankreich]]></de>
             <es><![CDATA[Francia]]></es>
             <nl><![CDATA[Frankrijk]]></nl>
+            <pl><![CDATA[Francja]]></pl>
         </text>
         <text name="germany">
             <en><![CDATA[Germany]]></en>
@@ -118,6 +131,7 @@
             <de><![CDATA[Deutschland]]></de>
             <es><![CDATA[Alemania]]></es>
             <nl><![CDATA[Duitsland]]></nl>
+            <pl><![CDATA[Niemcy]]></pl>
         </text>
     </l10n>
 </modDesc>
