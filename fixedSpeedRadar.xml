@@ -5,12 +5,14 @@
             <en><![CDATA[Fixed speed radar]]></en>
             <fr><![CDATA[Radar de vitesse fixe]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Radar de velocidad fijo]]></es>
         </name>
         <functions>
             <function>
                 <en><![CDATA[A fixed speed radar. Can be vandalized.]]></en>
                 <fr><![CDATA[Un radar de vitesse fixe. Peut être vandalisé.]]></fr>
                 <de><![CDATA[???]]></de>
+                <es><![CDATA[Un radar de velocidad fijo. Puede ser vandalizado.]]></es>
             </function>
         </functions>
         <image>fixedSpeedRadar.dds</image>

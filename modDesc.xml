@@ -6,11 +6,13 @@
         <en><![CDATA[Speed Radar Pack]]></en>
         <fr><![CDATA[Pack Radar de Vitesse]]></fr>
         <de><![CDATA[???]]></de>
+        <es><![CDATA[Pack de Radares de Velocidad]]></es>
     </title>
     <description>
         <en><![CDATA[This mod includes speed radars which will fine you if your drive off the limits.]]></en>
         <fr><![CDATA[Ce mod inclus des radars de vitesse qui vous infligeront une amende en cas de dépassement des limites.]]></fr>
         <de><![CDATA[???]]></de>
+        <es><![CDATA[Este mod incluye radares de velocidad que te multarán si conduces sobre los límites.]]></es>
     </description>
     <iconFilename>icon.png</iconFilename>
     <multiplayer supported="true"/>
@@ -29,51 +31,61 @@
             <en><![CDATA[You drove %s too fast (max: %s) and have to pay %s]]></en>
             <fr><![CDATA[Vous avez conduit %s trop vite (max : %s) et devez payer %s]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Conduciste sobre el límite a %s (máx: %s) y debes pagar %s]]></es>
         </text>
         <text name="action_vandalizeRadar">
             <en><![CDATA[Vandalize radar]]></en>
             <fr><![CDATA[Vandaliser le radar]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Vandalizar radar]]></es>
         </text>
         <text name="action_repairRadar">
             <en><![CDATA[Repair radar]]></en>
             <fr><![CDATA[Réparer le radar]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Reparar radar]]></es>
         </text>
         <text name="speedRadar_ui_newRadar">
             <en><![CDATA[New radar]]></en>
             <fr><![CDATA[Nouveau radar]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Nuevo radar]]></es>
         </text>
         <text name="speedRadar_ui_speedLimit">
             <en><![CDATA[Speed limit]]></en>
             <fr><![CDATA[Limite de vitesse]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Límite de velocidad]]></es>
         </text>
         <text name="speedRadar_ui_speedLimitTooltip">
             <en><![CDATA[The maximum speed allowed before enabling the fine system.]]></en>
             <fr><![CDATA[La vitesse maximum autorisée avant déclenchement du système d'amendes.]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[El máximo de velocidad permitido antes de activar el sistema de multa.]]></es>
         </text>
         <text name="speedRadar_ui_speedUnit">
             <en><![CDATA[Speed unit]]></en>
             <fr><![CDATA[Unité de vitesse]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Unidad de velocidad]]></es>
         </text>
         <text name="speedRadar_ui_speedUnitTooltip">
             <en><![CDATA[The unit in which the speed limit is expressed.]]></en>
             <fr><![CDATA[L'unité dans laquelle est exprimé votre limitation de vitesse.]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[La unidad en que el límite de velocidad está expresado.]]></es>
         </text>
         <text name="speedRadar_ui_fineSystem">
             <en><![CDATA[Fine system]]></en>
             <fr><![CDATA[Système de contravention]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[Sistema de multas]]></es>
         </text>
         <text name="speedRadar_ui_fineSystemTooltip">
             <en><![CDATA[The fine system to use when the speed limit has been exceeded.]]></en>
             <fr><![CDATA[Le système de contravention qui sera utilisé lors des dépassements de vitesse.]]></fr>
             <de><![CDATA[???]]></de>
+            <es><![CDATA[El sistema de multas a utilizar cuando el límite de velocidad ha sido excedido.]]></es>
         </text>
         <text name="kmh">
             <en><![CDATA[km/h]]></en>
@@ -85,11 +97,13 @@
             <en><![CDATA[France]]></en>
             <fr><![CDATA[France]]></fr>
             <de><![CDATA[Frankreich]]></de>
+            <es><![CDATA[Francia]]></es>
         </text>
         <text name="germany">
             <en><![CDATA[Germany]]></en>
             <fr><![CDATA[Allemagne]]></fr>
             <de><![CDATA[Deutschland]]></de>
+            <es><![CDATA[Alemania]]></es>
         </text>
     </l10n>
 </modDesc>
