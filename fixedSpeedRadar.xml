@@ -4,7 +4,7 @@
         <name>
             <en><![CDATA[Fixed speed radar]]></en>
             <fr><![CDATA[Radar de vitesse fixe]]></fr>
-            <de><![CDATA[???]]></de>
+            <de><![CDATA[Standblitzer]]></de>
             <es><![CDATA[Radar de velocidad fijo]]></es>
             <nl><![CDATA[Vaste snelheidscontrole]]></nl>
             <pl><![CDATA[Stacjonarny radar prędkości]]></pl>
@@ -13,7 +13,7 @@
             <function>
                 <en><![CDATA[A fixed speed radar. Can be vandalized.]]></en>
                 <fr><![CDATA[Un radar de vitesse fixe. Peut être vandalisé.]]></fr>
-                <de><![CDATA[???]]></de>
+                <de><![CDATA[Standblitzer, mit der Funktion diesen zu "vandalieren".]]></de>
                 <es><![CDATA[Un radar de velocidad fijo. Puede ser vandalizado.]]></es>
                 <nl><![CDATA[Een vaste snelheidscontrole. Kan gevandaliseerd worden.]]></nl>
                 <pl><![CDATA[Stacjonarny radar prędkości. Może być niszczony.]]></pl>
